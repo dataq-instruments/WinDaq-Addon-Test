@@ -1,6 +1,6 @@
 # WinDaq UtilityPack
 
-This is the test version of WinDaq/UtilityPack, to allow batch starting of WinDaq addons when starting WinDaq
+This is the test version of WinDaq/UtilityPack, to allow batch starting of WinDaq addons when starting WinDaq. With this feature, WinDaq can spanw multiple MagicMeters whenever it starts
 
 To do that, 
 1. Please download and install the above installation
