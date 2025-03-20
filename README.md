@@ -8,7 +8,7 @@ Setup Instructions
 3. Navigate to WinDaq → File → Save Default... to save your configuration.
 4. ### Ensure your WinDaq configuration is finalized before proceeding.
 5. Open each add-on you wish to include in the batch startup, configure its settings, and exit.
- - If multiple Gauge displays are needed for different channels, select each channel and open Gauge to save its configuration.
+  - If multiple Gauge displays are needed for different channels, select each channel and open Gauge to save its configuration.
 6. Run WinDaq and navigate to WinDaq → View → Add-on... → Add-on Batch Editor.<br/> 
 ![alt text](https://www.dataq.com/resources/images/addonbatch.png)
 7. Repeat Steps 8-12 for each add-on you want to include in the batch startup
