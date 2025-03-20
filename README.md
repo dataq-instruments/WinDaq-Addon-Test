@@ -3,7 +3,7 @@
 This is the test version of WinDaq/UtilityPack, to allow batch starting of WinDaq addons when starting WinDaq. For example, WinDaq can spawn multiple MagicMeters whenever it starts with this feature
 
 To do that, 
-1. Please download and install the above installation
+1. Please download and install this version of WinDaq/UtilityPack
 2. Run WinDaq and invoke WinDaq->View->Add on...->Add-on Batch Editor<br/> 
 ![alt text](https://www.dataq.com/resources/images/addonbatch.png)
 3. Repeat Step 4-7 to add all the addons you wish to include in the batch operation
