@@ -7,7 +7,7 @@ To do that,
 2. Run WinDaq and invoke WinDaq->View->Add on...->Add-on Batch Editor<br/> 
 ![alt text](https://www.dataq.com/resources/images/addonbatch.png)
 3. Select an addon from the left panel
-4. Push the + button to add the addon you wish to be included in the batch operation,
+4. Push the + ![alt text](https://www.dataq.com/resources/images/add.BMP) button to add the addon you wish to be included in the batch operation,
 5. To remove an batch addon, select an addon from the right panel, and use - button to remove a selected addon from the right panel to remove it
 6. Push the tool button to config the addon, each each one should have a different index number, starting from 0
 7. Push the checker box button to test drive the addon if needed
