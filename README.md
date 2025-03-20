@@ -15,9 +15,9 @@ Setup Instructions
 8. ![alt text](https://www.dataq.com/resources/images/add.BMP) Adds the selected add-on from the left panel to the batch operation
 9. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes a selected add-on from the right panel.
 10. ![alt text](https://www.dataq.com/resources/images/config.bmp) Adjusts settings for the highlighted add-on in the right panel. 
-  * Each add-on should have a unique index number, starting from 0.
-  * By default, index numbers should align with the WinDaq channel indexes set in Step 3.
-  * Example: If three analog channels are enabled in WinDaq and three Gauges were created, use index numbers 0 to 2 (a total of 3).
+    - Each add-on should have a unique index number, starting from 0.
+    - By default, index numbers should align with the WinDaq channel indexes set in Step 3.
+    - Example: If three analog channels are enabled in WinDaq and three Gauges were created, use index numbers 0 to 2 (a total of 3).
 11. ![alt text](https://www.dataq.com/resources/images/testdrive.bmp) Runs a test of the selected add-on.
 12. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the batch setup.
 13. Exit WinDaq
