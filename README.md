@@ -10,7 +10,7 @@ To do that,
 4. Push the + button to add the addon you wish to be included in the batch operation,
 5. To remove an batch addon, select an addon from the right panel, and use - button to remove a selected addon from the right panel to remove it
 6. Push the tool button to config the addon, each each one should have a different index number, starting from 0
-7. Test drive them
+7. Push the checker box button to test drive the addon if needed
 8. Repeat 3-7 to finish the configuration
 9. Push the check mark button to save the batch set up
 10. Exit WinDaq
