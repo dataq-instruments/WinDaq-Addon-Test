@@ -4,7 +4,8 @@ This is the test version of WinDaq/UtilityPack, to allow batch starting of WinDa
 
 To do that, 
 1. Please download and install the above installation
-2. Run WinDaq and invoke WinDaq->View->Add on...->Add-on Batch Editor
+2. Run WinDaq and invoke WinDaq->View->Add on...->Add-on Batch Editor<br/> 
+![alt text](https://www.dataq.com/resources/images/addonbatch.png)
 3. Add whatever addons you wish to be included in the batch operation, config and test drive them
 4. Save set up
 5. Exit WinDaq
