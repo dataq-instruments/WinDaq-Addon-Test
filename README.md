@@ -4,8 +4,8 @@ This test version of WinDaq/UtilityPack allows for batch launching of WinDaq add
 
 Setup Instructions 
 1. Download and install this test version of WinDaq/UtilityPack
-2. Run WinDaq and configure channels, gain, EU settings, etc. as needed.
-3. Navigate to WinDaq → File → Save Default... to save your configuration.
+2. Run WinDaq and configure channels, gain, EU settings, etc. as needed. For example, three channels are enabled
+3. Navigate to WinDaq → File → Save Default... to save your configuration. 
 4. ### Ensure your WinDaq configuration is finalized before proceeding.
 5. Open each add-on you wish to include in the batch startup, configure its settings, and exit.
    - If multiple Gauge displays are needed for different channels, select each channel and open Gauge to save its configuration.
@@ -17,7 +17,7 @@ Setup Instructions
 10. ![alt text](https://www.dataq.com/resources/images/config.bmp) Adjusts settings for the highlighted add-on in the right panel. 
     - Each add-on should have a unique index number, starting from 0.
     - By default, index numbers should align with the WinDaq channel indexes set in Step 3.
-    - Example: If three analog channels are enabled in WinDaq and three Gauges were created, use index numbers 0 to 2 (a total of 3).
+    - Example: If three analog channels are enabled in WinDaq and three Gauges were created, use index numbers 0 to 2, a total of 3, matching the total channel numbers in Step 2.
 11. ![alt text](https://www.dataq.com/resources/images/testdrive.bmp) Runs a test of the selected add-on.
 12. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the batch setup.
 13. Exit WinDaq
