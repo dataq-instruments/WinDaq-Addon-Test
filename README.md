@@ -21,5 +21,5 @@ Setup Instructions
 11. ![alt text](https://www.dataq.com/resources/images/testdrive.bmp) Runs a test of the selected add-on.
 12. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the batch setup.
 13. Exit WinDaq
-14. Restart WinDaq - all selected add-ons from Step 8 will now launch automatically. In the above example, three MagicMeters
+14. Restart WinDaq - all selected add-ons from Batch operation will now launch automatically. In the above example, three MagicMeters
 
