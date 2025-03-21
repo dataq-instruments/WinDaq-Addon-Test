@@ -16,7 +16,7 @@ Setup Instructions
 9. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes a selected add-on from the right panel.
 10. ![alt text](https://www.dataq.com/resources/images/config.bmp) Adjusts settings for the highlighted add-on in the right panel. 
     - Each add-on should have a unique index number, starting from 0.
-    - By default, index numbers should align with the WinDaq channel indexes set in Step 3.
+    - By default, index numbers should align with the WinDaq channel indexes set in Step 2.
     - Example: If three analog channels are enabled in WinDaq and three MagicMeter were created, use index numbers 0 to 2, a total of 3, matching the total channel numbers in Step 2.
 11. ![alt text](https://www.dataq.com/resources/images/testdrive.bmp) Runs a test of the selected add-on.
 12. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the batch setup.
