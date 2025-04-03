@@ -16,7 +16,7 @@ Setup Instructions
     - Example: If three analog channels are enabled in WinDaq and three MagicMeter were created, use index numbers 0 to 2, a total of 3, matching the total channel numbers in Step 2.
     - Once the configuration index is saved, the selected add-on will be launched for test drive, and you can setup accordingly
 
-8. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes a selected add-on from the auto startup panel on the right.
+8. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes an unwanted add-on from the auto startup group on the right panel.
 9. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the auto startup group.
 10. Restart WinDaq - all selected add-ons from Auto Startup operation will now launch automatically. In the above example, three MagicMeters
 
