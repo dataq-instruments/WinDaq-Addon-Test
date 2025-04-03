@@ -1,4 +1,4 @@
-# WinDaq/UtilityPack Test Version – Batch Add-on Startup Guide
+# WinDaq/UtilityPack Test Version – Add-on Auto Startup Guide
 
 This test version of WinDaq/UtilityPack allows for batch launching of WinDaq add-ons when starting WinDaq. For example, this feature enables WinDaq to automatically open multiple MagicMeters whenever it starts.
 
@@ -7,7 +7,7 @@ Setup Instructions
 2. Run WinDaq and configure channels, gain, EU settings, etc. as needed. For example, three channels are enabled
 3. Navigate to WinDaq → File → Save Default... to save your configuration. 
 4. ### Ensure your WinDaq configuration is finalized before proceeding.
-5. Run WinDaq and navigate to WinDaq → View → Add-on... → Add-on Startup Editor.<br/>![alt text](https://www.dataq.com/resources/images/addonbatch1.png)
+5. Run WinDaq and navigate to WinDaq → View → Add-on... → !Add-on Startup Editor.<br/>![alt text](https://www.dataq.com/resources/images/addonbatch1.png)
  
 6. Repeat Steps 8-12 for each add-on you want to include in the batch startup
 7. ![alt text](https://www.dataq.com/resources/images/add.BMP) Adds the selected add-on from the left panel to the batch operation. Once an addon is added, assign an index number so that its configuration will be saved
@@ -18,5 +18,5 @@ Setup Instructions
 
 8. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes a selected add-on from the right panel.
 9. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the batch setup.
-10. Exit then restart WinDaq - all selected add-ons from Batch operation will now launch automatically. In the above example, three MagicMeters
+10. Exit then restart WinDaq - all selected add-ons from Auto Startup operation will now launch automatically. In the above example, three MagicMeters
 
