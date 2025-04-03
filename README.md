@@ -18,5 +18,5 @@ Setup Instructions
 
 8. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes an unwanted add-on from the auto startup group on the right panel.
 9. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the auto startup group.
-10. Restart WinDaq - all selected add-ons from Auto Startup operation will now launch automatically. In the above example, three MagicMeters
+10. Restart WinDaq - all add-ons from Auto Startup operation will now launch automatically. In the above example, three MagicMeters
 
