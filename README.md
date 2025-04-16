@@ -7,7 +7,7 @@ Setup Instructions
 2. Run WinDaq and configure channels, gain, EU settings, etc. as needed. For example, three channels are enabled
 3. Navigate to WinDaq → File → Save Default... to save your configuration. 
 4. ### Ensure your WinDaq configuration is finalized before proceeding.
-5. Run WinDaq and navigate to WinDaq → View → Add-on... → Add-on Auto Startup Config.<br/>![alt text](https://www.dataq.com/resources/images/addonbatch1.png)
+5. Navigate to WinDaq → View → Add-on... → Add-on Auto Startup Config.<br/>![alt text](https://www.dataq.com/resources/images/addonbatch1.png)
  
 6. Repeat Steps 7-8 for each add-on you want to include in the auto startup
 7. ![alt text](https://www.dataq.com/resources/images/add.BMP) Adds the selected add-on from the left panel to the auto startup operation. Once an addon is added, assign an index number so that its configuration will be saved
