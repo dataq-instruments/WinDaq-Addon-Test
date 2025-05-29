@@ -1,22 +1,15 @@
-# WinDaq/UtilityPack Test Version – Add-on Auto Startup Guide
+# WinDaq ExcelLink and UtilityPack debug tool
 
-This test version of WinDaq/UtilityPack allows for auto launching of WinDaq add-ons when starting WinDaq. For example, this feature enables WinDaq to automatically open multiple MagicMeters whenever it starts.
+A special version Gauge.exe is used here to print out debug info to track WinDaq ExcelLink and UtilityPack errors
 
-Setup Instructions 
-1. Download and install this test version of WinDaq/UtilityPack
-2. Run WinDaq and configure channels, gain, EU settings, etc. as needed. For example, three channels are enabled
-3. Navigate to WinDaq → File → Save Default... to save your configuration. 
-4. ### Ensure your WinDaq configuration is finalized before proceeding.
-5. Navigate to WinDaq → View → Add-on... → Add-on Auto Startup Config.<br/>![alt text](https://www.dataq.com/resources/images/addonbatch.png)
- 
-6. Repeat Steps 7-8 for each add-on you want to include in the auto startup
-7. ![alt text](https://www.dataq.com/resources/images/add.BMP) Adds the selected add-on from the left panel to the auto startup operation. Once an addon is added, assign an index number so that its configuration will be saved
-    - Each add-on should have a unique index number, starting from 0.
-    - Index numbers should align with the WinDaq channel indexes set in Step 2.
-    - Example: If three analog channels are enabled in WinDaq and three MagicMeter were created, use index numbers 0 to 2, a total of 3, matching the total channel numbers in Step 2.
-    - Once the configuration index is saved, the selected add-on will be launched for test drive, and you can setup accordingly
-
-8. ![alt text](https://www.dataq.com/resources/images/minus.BMP) Removes an unwanted add-on from the auto startup group on the right panel.
-9. ![alt text](https://www.dataq.com/resources/images/accept.bmp) Saves the auto startup group.
-10. Restart WinDaq - all add-ons from Auto Startup operation will now launch automatically. In the above example, three MagicMeters
+Instructions 
+1. Rename gauge.exe C:\Program Files (x86)\DATAQ Instruments\common to gauge_org.exe so that we can restore it after the test
+2. Download the codes from this folder and extract a file call gauge.exe, which is in fact a debug tool under the same name in 1)
+3. Copy the file gauge from step 2 to C:\Program Files (x86)\DATAQ Instruments\common
+4. Run WinDaq Dashboard
+5. Start WinDaq with the exact configuration you had trouble with ExcelLink or UtilityPack.  
+6. Invoke WinDaq->View->Add ons...->Gauge and you should see the following report
+7. ![alt text](https://www.dataq.com/resources/images/addondebug.png) 
+8. Send this image to Dataq Support for analysis
+9. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
 
