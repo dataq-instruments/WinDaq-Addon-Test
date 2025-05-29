@@ -9,7 +9,7 @@ Instructions
 4. Run WinDaq Dashboard
 5. Start WinDaq with the exact configuration you had trouble with ExcelLink or UtilityPack.  
 6. Invoke WinDaq->View->Add ons...->Gauge and you should see the following report
-7. ![alt text](https://www.dataq.com/resources/images/addondebug.png) 
+7. ![alt text](https://www.dataq.com/resources/images/addondebug2.png) 
 8. Send this image to Dataq Support for analysis
 9. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
 
