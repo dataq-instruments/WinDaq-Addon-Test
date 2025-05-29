@@ -3,7 +3,7 @@
 A special debug version Gauge.exe is used here to print out debug info to track down WinDaq ExcelLink and UtilityPack errors
 
 Instructions 
-1. Rename gauge.exe C:\Program Files (x86)\DATAQ Instruments\common to gauge_org.exe so that we can restore it after the test
+1. Rename gauge.exe in C:\Program Files (x86)\DATAQ Instruments\common to gauge_org.exe so that we can restore it after the test
 2. Download the codes from this folder and extract a file call gauge.exe, which is in fact a debug tool under the same name in 1)
 3. Copy the file gauge from step 2 to C:\Program Files (x86)\DATAQ Instruments\common
 4. Run WinDaq Dashboard
