@@ -16,9 +16,11 @@ Instructions
 11. Select a device that threw out WinDaq ExcelLink and UtilityPack errors. If the error is from ChannelStretch operation that involves multiple devices, select one at a time
 12. Select Help->Device Info...
 13. ![alt text](https://www.dataq.com/resources/images/addondebug3.png)
-14. and you should see the following info, with unlock code. If you don't see the unlock code, please download the latest WinDaq suite installation and try again
+14. and you should see the following info, with unlock code, which shoulb be the SAME unlock code in your order. If not, install the corrent unlock code per Step 17
 15. ![alt text](https://www.dataq.com/resources/images/addondebug4.png)
-16. Repeat step 9-15 for ALL devices involved in the error
-17. Send all images captured in above steps to Dataq Support for analysis
-18. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
+16. If you don't see the unlock code, please download the latest WinDaq suite installation and try again
+17. ![alt text](https://www.dataq.com/resources/images/addondebug5.png)
+18. Repeat step 9-17 for ALL devices involved in the error
+19. Send all images captured in above steps to Dataq Support for analysis
+20. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
 
