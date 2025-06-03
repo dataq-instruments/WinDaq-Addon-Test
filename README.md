@@ -16,7 +16,7 @@ Instructions
 11. Select a device that threw out WinDaq ExcelLink and UtilityPack errors. If the error is from ChannelStretch operation that involves multiple devices, select one at a time
 12. Select Help->Device Info...
 13. ![alt text](https://www.dataq.com/resources/images/addondebug3.png)
-14. and you should see the following info, with unlock code, which shoulb be the SAME unlock code in your order. If not, install the corrent unlock code per Step 17
+14. and you should see the following info, with unlock code, which shoulb be the SAME unlock code in your order. If not, install the unlock code per Step 17
 15. ![alt text](https://www.dataq.com/resources/images/addondebug4.png)
 16. If you don't see the unlock code, please download the latest WinDaq suite installation and try again
 17. ![alt text](https://www.dataq.com/resources/images/addondebug5.png)
