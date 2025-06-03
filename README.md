@@ -10,7 +10,7 @@ Instructions
 5. Start WinDaq with the exact configuration you had trouble with ExcelLink or UtilityPack.  
 6. Invoke WinDaq->View->Add ons...->Gauge and you should see the following report
 7. ![alt text](https://www.dataq.com/resources/images/addondebug2.png)
-8. CombinedKeysFromAllDevices' bit 1 is ExcelLink, bit 2 is UtilityPack. For example, neither ExcelLink nor UtilityPack is available if this value is 0. Only ExcelLink is available if this value is 2 or 3
+8. The fourth item (Combined keys...)' bit 1 is ExcelLink, bit 2 is UtilityPack. For example, neither ExcelLink nor UtilityPack is available if this value is 0. Only ExcelLink is available if this value is 2 or 3
 9. The last item (WinDaq allows...) checks if ChannelStretch or Channel Configuration has any conflict with ExcelLink and UtilityPack Licensing. For example, if ChannelStretch is not actived, this flag will be 0 when two or more devices are running in channel expansion mode. When this flag is zero, WinDaq will NOT allow recording, and some of the addons will not run.
 10. Run Dashboard
 11. Select a device that threw out WinDaq ExcelLink and UtilityPack errors. If the error is from ChannelStretch operation that involves multiple devices, select one at a time
