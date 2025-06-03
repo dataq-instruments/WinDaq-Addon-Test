@@ -1,4 +1,4 @@
-# WinDaq ExcelLink and UtilityPack debug tool
+# WinDaq ExcelLink and UtilityPack Licensing Debug Tool
 
 A special debug version Gauge.exe is used here to print out debug info to track down WinDaq ExcelLink and UtilityPack errors
 
