@@ -1,6 +1,6 @@
 # WinDaq ExcelLink and UtilityPack Licensing Debug Tool
 
-A special debug version Gauge.exe is used here to print out debug info to track down WinDaq ExcelLink and UtilityPack errors
+A special debug version Gauge.exe is used here to print out debug info to track down WinDaq ExcelLink and UtilityPack licensing errors
 
 Instructions 
 1. Rename gauge.exe in C:\Program Files (x86)\DATAQ Instruments\common to gauge_org.exe so that we can restore it after the test
