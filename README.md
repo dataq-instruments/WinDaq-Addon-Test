@@ -10,14 +10,15 @@ Instructions
 5. Start WinDaq with the exact configuration you had trouble with ExcelLink or UtilityPack.  
 6. Invoke WinDaq->View->Add ons...->Gauge and you should see the following report
 7. ![alt text](https://www.dataq.com/resources/images/addondebug2.png)
-8. FYI: CombinedKeysFromAllDevices' bit 1 is ExcelLink, bit 2 is UtilityPack. For example, neither ExcelLink nor UtilityPack is available if this value is 0. Only ExcelLink is available if this value is 2 or 3
-9. Run Dashboard
-10. Select a device that threw out WinDaq ExcelLink and UtilityPack errors. If the error is from ChannelStretch operation that involves multiple devices, select one at a time
-11. Select Help->Device Info...
-12. ![alt text](https://www.dataq.com/resources/images/addondebug3.png)
-13. and you should see the following info, with unlock code. If you don't see the unlock code, please download the latest WinDaq suite installation and try again
-14. ![alt text](https://www.dataq.com/resources/images/addondebug4.png)
-15. Repeat step 9-14 for ALL devices involved in the error
-16. Send all images captured in above steps to Dataq Support for analysis
-17. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
+8. CombinedKeysFromAllDevices' bit 1 is ExcelLink, bit 2 is UtilityPack. For example, neither ExcelLink nor UtilityPack is available if this value is 0. Only ExcelLink is available if this value is 2 or 3
+9. The last item (WinDaq allows...) checks if ChannelStretch or Channel Configuration has any conflict with ExcelLink and UtilityPack Licensing. For example, if ChannelStretch is not actived, this flag will be 0 when two or more devices are running in channel expansion mode. When this flag is zero, WinDaq will NOT allow recording, and some of the addons will not run.
+10. Run Dashboard
+11. Select a device that threw out WinDaq ExcelLink and UtilityPack errors. If the error is from ChannelStretch operation that involves multiple devices, select one at a time
+12. Select Help->Device Info...
+13. ![alt text](https://www.dataq.com/resources/images/addondebug3.png)
+14. and you should see the following info, with unlock code. If you don't see the unlock code, please download the latest WinDaq suite installation and try again
+15. ![alt text](https://www.dataq.com/resources/images/addondebug4.png)
+16. Repeat step 9-15 for ALL devices involved in the error
+17. Send all images captured in above steps to Dataq Support for analysis
+18. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
 
