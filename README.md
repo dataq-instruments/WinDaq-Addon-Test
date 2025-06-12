@@ -19,8 +19,7 @@ Instructions
 14. and you should see the following info, with unlock code, which shoulb be the SAME unlock code in your order. If not, install the unlock code per Step 17. Do not use WinDaq to enter the unlock code for ExcelLink or UtilityPack
 15. ![alt text](https://www.dataq.com/resources/images/addondebug4.png)
 16. If you don't see the unlock code in step 15, please download the latest WinDaq suite installation and try again
-17. ![alt text](https://www.dataq.com/resources/images/addondebug5.png)
-18. Repeat step 9-17 for ALL devices involved in the error
-19. Send all images captured in above steps to Dataq Support for analysis
-20. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
+17. Repeat step 9-16 for ALL devices involved in the error
+18. Send all images captured in above steps to Dataq Support for analysis
+19. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
 
