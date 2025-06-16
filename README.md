@@ -21,5 +21,7 @@ Instructions
 16. If you don't see the unlock code in step 15, please download the latest WinDaq suite installation and try again
 17. Repeat step 9-16 for ALL devices involved in the error
 18. Send all images captured in above steps to Dataq Support for analysis
-19. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
+19. If a device needs a new unlock code, please enter it via Dashboard
+20. ![alt text](https://www.dataq.com/resources/images/addondebug5.png)
+21. Once the problem is resolved, replace the debug version of gauge.exe with the original version renamed in step 1 so that you can use Gauge 
 
